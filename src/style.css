@@ -1,0 +1,27 @@
+body {
+  color: white;
+  background: black;
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Orbitron", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.bg-primary {
+  background-color: rgb(255, 0, 81) !important;
+}
+
+.btn-primary {
+  background-color: rgb(255, 0, 81) !important;
+  border: black;
+}
+
+ul li::marker {
+  color: #ff4655; /* rouge Valorant */
+  font-size: 1.2em;
+}
